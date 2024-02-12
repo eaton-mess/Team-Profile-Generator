@@ -1,0 +1,27 @@
+.title-container {
+    padding: 5em;
+    background-color: #559CC2;
+    margin-bottom: 1em;
+}
+
+.title-container h1 {
+    color: white;
+    font-size: 4em;
+    margin: auto;
+}
+
+.card-header {
+    background-color: #488db3;
+    color: white;
+}
+
+.card-header h2 {
+    font-size: 2.5em;
+}
+.card-header h3 {
+    font-size: 1.5em;
+}
+
+.employee-card {
+    margin: 1em;
+}
