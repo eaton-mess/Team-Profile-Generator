@@ -63,7 +63,7 @@ Share the HTML page with relevant team members as needed.
 Optionally, run the provided tests using Jest to ensure that all classes and methods pass the test cases.
 Run npm test in the terminal to execute the tests.
 
-![alt text]()
+![alt text](https://github.com/eatontechnology/Team-Profile-Generator/blob/main/assets/example%20gif.gif)
 
 ## Author
 
