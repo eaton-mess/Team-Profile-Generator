@@ -1,4 +1,4 @@
-# My-ReadMe-Generator
+# Team Profile Generator
 
 ## Description 
 
