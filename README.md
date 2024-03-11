@@ -68,7 +68,7 @@ Run npm test in the terminal to execute the tests.
 ## Author
 
 Lauren Eaton
-https://github.com/eatontechnology
+https://github.com/eaton-mess
 
 ## Acknowledgements
 
