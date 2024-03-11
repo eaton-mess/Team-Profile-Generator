@@ -7,7 +7,7 @@ The Team Profile Generator is a command-line application designed to streamline 
 Utilising Node.js, Inquirer for user input, and Jest for unit testing, the application offers a seamless user experience. Upon running the application with the command node index.js, the user is guided through a series of prompts to input information about the team manager, engineers, and interns. Once all information is provided, the application generates an HTML webpage that neatly organises and displays the team's information.
 
 A sample HTML page can be found here: 
-https://github.com/eatontechnology/Team-Profile-Generator/blob/main/output/team.html
+https://github.com/eaton-mess/Team-Profile-Generator/blob/main/output/team.html
 
 ## Table of Contents 
 
@@ -63,7 +63,7 @@ Share the HTML page with relevant team members as needed.
 Optionally, run the provided tests using Jest to ensure that all classes and methods pass the test cases.
 Run npm test in the terminal to execute the tests.
 
-![alt text](https://github.com/eatontechnology/Team-Profile-Generator/blob/main/assets/example%20gif.gif)
+![alt text](https://github.com/eaton-mess/Team-Profile-Generator/blob/main/assets/example%20gif.gif)
 
 ## Author
 
